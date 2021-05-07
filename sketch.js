@@ -158,7 +158,7 @@ function setup() {
   deathbullet5.shapeColor = "red"
   deathbullet5.visible = false
 
- gameState = 1
+ gameState = 0
  gokuDirection = "right"
  friezaDirection = "left"
 
