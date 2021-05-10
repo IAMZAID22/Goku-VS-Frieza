@@ -889,7 +889,7 @@ function draw() {
     textFont('Georgia');
     fill("white")
     textSize(50)
-    text("Frieza Wins",270,130);
+    text("Frieza Wins",250,130);
     ss.visible = false
     kamehameha.visible = false
     sf.visible = false
@@ -914,7 +914,7 @@ function draw() {
         textFont('Georgia');
         fill("white")
         textSize(50)
-        text("Goku Wins",270,130);
+        text("Goku Wins",250,130);
         ss.visible = false
         kamehameha.visible = false
         ss.visible = false
